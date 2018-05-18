@@ -29,7 +29,7 @@
             
         },
         "files" : [
-            "app/Hoangthang/functions.php"
+            "app/KhongDau/functions.php"
         ]
     },
     "autoload-dev": {
